@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Raw datasets
+dataset/raw/
+
+# Generated features
+dataset/processed/mel/
+
+# Model weights
+*.pt
+*.pth
+
+# NumPy arrays
+*.npy
+
+# Logs
+logs/
